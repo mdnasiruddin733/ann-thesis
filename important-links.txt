@@ -1,0 +1,2 @@
+1) https://stats.stackexchange.com/questions/83948/is-r-squared-value-appropriate-for-comparing-models
+2)https://towardsdatascience.com/avoid-r-squared-to-judge-regression-model-performance-5c2bc53c8e2e
